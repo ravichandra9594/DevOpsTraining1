@@ -1,0 +1,15 @@
+h1 {
+	font-size: 22px;
+	font-family: 'verdana, times-new-roman, roboto, sans-serif';
+	color: #b3b3b3;
+	padding: 5px 5px 5px 5px;
+}
+body {
+	background: #f1f1f1;
+}
+p {
+	font-family: 'roboto';
+	font-size: 14px;
+	color: #b1b1b1;
+}
+
